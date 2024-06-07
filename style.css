@@ -21,7 +21,8 @@
   }
 
   .innerdiv {
-      height: 240px;
+    padding-bottom: 20px;
+      height: auto;
       place-items: center;
       display: grid;
       width: 50vw;
@@ -38,6 +39,7 @@
   }
 
   .innerdiv ul li {
+    font-size: 20px;
       margin-top: 0.5px;
       list-style-type: none;
       padding: 3px;
